@@ -1,0 +1,11 @@
+Summary of students:
+========
+ID: s1 Lname: adam Total: 73.55 Grade: C
+ID: s2 Lname: smith Total: 81.06 Grade: B
+ID: s3 Lname: robin Total: 66.22 Grade: F
+ID: s4 Lname: nusair Total: 92.45 Grade: A
+ID: s5 Lname: martin Total: 67.16 Grade: F
+ID: s6 Lname: jack Total: 92.45 Grade: A
+
+========
+First student with the highest total is s4 nusair 92.45
